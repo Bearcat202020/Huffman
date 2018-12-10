@@ -1,3 +1,12 @@
+#Name: Jude Barakat
+#Date: 12/10/18
+
+#The purpose of this lab is to create a Huffman encoder. This is an algorithm that creates a tree in order to compress text into bits, saving space. This is done by creating a 'binary tree' that uses the left and right directions to signify a 1 or 0 bitself.
+
+#On My honor: JB
+#Collaborators; None
+
+
 import operator
 from queue import PriorityQueue
 
